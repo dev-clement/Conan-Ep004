@@ -1,0 +1,12 @@
+[requires]
+fmt/11.2.0
+
+[generators]
+CMakeDeps
+CMakeToolchain
+
+[tool_requires]
+cmake/3.27.9
+
+[layout]
+cmake_layout
